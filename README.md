@@ -52,17 +52,6 @@ Desenvolvedor Backend com **7 anos de experiência em TI**, sendo **4 anos focad
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabpereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabpereira&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
-
----
-
 ## 🎯 Foco Atual
 
 - 🏗️ **Arquitetura de Software** — Pós-graduação em Software Architecture (FIAP)
