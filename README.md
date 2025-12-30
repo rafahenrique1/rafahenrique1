@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-henrique-barbosa-pereira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafahenrique1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhbpereira@yahoo.com)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Backend com **6 anos de experiência em TI**, sendo **3 anos focados em desenvolvimento de software**. Atualmente trabalhando no **Mercado Livre**, desenvolvendo serviços e aplicações de alta escala dentro do ecossistema Mercado Ads/Brand Ads.
+Desenvolvedor Backend com **7 anos de experiência em TI**, sendo **4 anos focados em desenvolvimento de software**. Atualmente trabalhando no **Mercado Livre**, desenvolvendo serviços e aplicações de alta escala dentro do ecossistema Mercado Ads/Brand Ads.
 
 🎓 Cursando **Pós-graduação em Software Architecture** na **FIAP**
 
@@ -51,23 +52,12 @@ Desenvolvedor Backend com **6 anos de experiência em TI**, sendo **3 anos focad
 
 ---
 
-## 💼 Experiência Profissional
-
-| Empresa | Cargo | Período |
-|---------|-------|---------|
-| **🟡 Mercado Livre** | Backend Software Developer | Dez 2024 - Presente |
-| **MTP Métodos e Tecnologia** | Desenvolvedor .NET Pleno | Mai 2024 - Dez 2024 |
-| **innolevels** | Desenvolvedor .NET Jr. | Out 2022 - Mai 2024 |
-| **Allied Brasil** | Desenvolvedor .NET Jr. | Mar 2022 - Set 2022 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafahenrique1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahenrique1&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabpereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabpereira&layout=compact&langs_count=7&theme=github_dark"/>
 
 </div>
 
@@ -80,10 +70,3 @@ Desenvolvedor Backend com **6 anos de experiência em TI**, sendo **3 anos focad
 - 📦 **Microserviços** — Clean Architecture, DDD, Event-Driven Architecture
 - ☁️ **Cloud Native** — Kubernetes, Docker, CI/CD
 
----
-
-<div align="center">
-
-📫 **rafaelhbpereira@yahoo.com**
-
-</div>
