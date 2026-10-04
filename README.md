@@ -14,9 +14,9 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Backend com **7 anos de experiência em TI**, sendo **4 anos focados em desenvolvimento de software**. Atualmente trabalhando no **Mercado Livre**, desenvolvendo serviços e aplicações de alta escala dentro do ecossistema Mercado Ads/Brand Ads.
+Desenvolvedor Backend com **7 anos de experiência em TI**, sendo **5 anos focados em desenvolvimento de software**. Atualmente trabalhando no **Mercado Livre**, desenvolvendo serviços e aplicações de alta escala dentro do ecossistema Mercado Ads/Brand Ads.
 
-🎓 Cursando **Pós-graduação em Software Architecture** na **FIAP**
+🎓 Formado em **Pós-graduação em Software Architecture** pela **FIAP**
 
 ---
 
