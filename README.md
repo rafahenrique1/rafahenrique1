@@ -2,7 +2,7 @@
 
 # Rafael Pereira
 
-**Senior Backend Engineer & Software Architect**
+**Backend Engineer & Software Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-henrique-barbosa-pereira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafahenrique1)
